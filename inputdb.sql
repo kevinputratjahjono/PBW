@@ -17,3 +17,14 @@ INSERT INTO `barang`(`id_barang`, `nama`, `brand`, `type`, `harga`, `icon_url`, 
 'OF002.jpg',
 '6',
 'Laptop yang cocok untuk kerja, cocok untuk kamu yang kuliah. Lebih lengkap: https://www.lenovo.com/id/in/laptops/ideapad/ideapad-d-series/IdeaPad-D330/p/88IPMX31047')
+
+INSERT INTO `barang`(`id_barang`, `nama`, `brand`, `type`, `harga`, `icon_url`, `av_quantity`, `desc`) VALUES 
+('OF003',
+'',
+'',
+'',
+'office',
+'',
+'OF003.jpg',
+'',
+'')
